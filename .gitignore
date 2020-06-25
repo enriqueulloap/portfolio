@@ -1,4 +1,5 @@
 #exclude
+/.gitignore
 /.ipynb_checkpoints
 /respaldo
 /en_proceso
