@@ -1,10 +1,7 @@
-#Understand user behavior from page view events
-A startup has created a platform for students could find learning material for their studies. They collect events from users as they browse the platform.
+# Data Engineering Portfolio
+Repository containing Enrique Ulloa's portfolio of data engineering projects. Projects are presented in Jupyter Notebooks using Python and other technologies.
 
-We have to extract information that allows them to analyze what the users are accessing and how they do that. 
+## Contents
 
-They provideded us a dataset splitted on some files with the name **part-[0000x].json**
-
-##Analysis
-
-We take a look on the files
+**[User Behavior in an Educational Social Network (Part 1)](https://github.com/enriqueulloap/portfolio/blob/master/User%20Behavior%20in%20an%20Educational%20Social%20Network%20(Part%201).ipynb)**
+* In this project, I build a Data Pipeline to load unstructured data into a MongoDB database to analyze what information we must extract to analyze the user behavior in an Educational Social Network
