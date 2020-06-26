@@ -7,19 +7,19 @@ Repository containing Enrique Ulloa's portfolio of data engineering projects. Pr
 
 In this project, I built a Pipeline to load unstructured data into a MongoDB database to determine what information we must extract to analyze the user behavior in an Educational Social Network.
 
-### Omnichannel Sales Dashboard (Real-Time)
+### Omnichannel Sales Dashboard
 
 This dashboard was created to support the omnichannel strategy of a bank. It gathers data from the different platforms used in the company, i.e. retail stores, bank offices, website, mobile applications, telemarketing, ATM, etc.
 
 ![dashboard image](img/pulso.png)
 
-### Consumer Loans Report (Hourly)
+### Consumer Loans Report
 
 Description
 
 ![banco report](img/banco.jpg)
 
-### Credit and Debit Cards Report (Daily/Hourly)
+### Credit and Debit Cards Report
 
 Description
 
