@@ -9,4 +9,5 @@ Repository containing Enrique Ulloa's portfolio of data engineering projects. Pr
 **Real-Time Sales Dashboard**
 
 * This dashboard was created to support the omnichannel strategy of a bank. It gathers data from the different platforms used in the company, i.e. retail stores, bank offices, website, mobile applications, telemarketing, ATM, etc.
+
 ![dashboard image](img/pulso.png)
