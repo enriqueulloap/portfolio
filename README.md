@@ -7,4 +7,4 @@ Repository containing Enrique Ulloa's portfolio of data engineering projects. Pr
 * In this project, I build a Pipeline to load unstructured data into a MongoDB database to determine what information we must extract to analyze the user behavior in an Educational Social Network
 
 **Real-Time Sales Dashboard**
-![dashboard image](img/pulso.png)
+* ![dashboard image](img/pulso.png)
