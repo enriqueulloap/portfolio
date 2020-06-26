@@ -13,7 +13,7 @@ This dashboard was created to support the omnichannel strategy of a bank. It gat
 
 ![dashboard image](img/pulso.png)
 
-### Consumer Loans Hourly Report
+### Consumer Loans Sales Report
 
 I've redesigned this report and its process to ensure reliability in information and delivery.
 
