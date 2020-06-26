@@ -13,8 +13,14 @@ This dashboard was created to support the omnichannel strategy of a bank. It gat
 
 ![dashboard image](img/pulso.png)
 
-### Consumer Loans Sales Report
+### Consumer Loans Report
 
-I've redesigned this report and its process to ensure reliability in information and delivery.
+Description
 
 ![banco report](img/banco.jpg)
+
+### Credit and Debit Cards Report
+
+Description
+
+![cards report](img/tarjetas_cropped.jpg)
