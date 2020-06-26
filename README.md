@@ -3,7 +3,8 @@ Repository containing Enrique Ulloa's portfolio of data engineering projects. Pr
 
 ## Contents
 
-**[User Behavior in an Educational Social Network (Part 1)](https://github.com/enriqueulloap/portfolio/blob/master/User%20Behavior%20in%20an%20Educational%20Social%20Network%20(Part%201).ipynb)**
+### [User Behavior in an Educational Social Network (Part 1)](https://github.com/enriqueulloap/portfolio/blob/master/User%20Behavior%20in%20an%20Educational%20Social%20Network%20(Part%201).ipynb)**
+
 In this project, I built a Pipeline to load unstructured data into a MongoDB database to determine what information we must extract to analyze the user behavior in an Educational Social Network
 
 **Real-Time Sales Dashboard**
