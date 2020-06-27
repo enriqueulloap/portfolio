@@ -15,14 +15,17 @@ This dashboard was created to support the omnichannel strategy of a bank. It gat
 
 ### Credit and Debit Cards Report
 
-Description
+This report was created to track the quantity of new cardholders and how many customers are getting a card upgrade. It features charts and rankings of the best and worst performances.
+
+Before this report, the managers had no way of knowing their performance during the weekends, the days with the largest influx of public. Now it is sent automatically in a daily and hourly basis.
 
 ![cards report](img/tarjetas_cropped.jpg)
 
-
 ### Consumer Loans Report
 
-Description
+This report shows the Consumer Loans sold in the bank offices along with others productivity KPI.
+
+It is a redesign of one that was malfunctioning (it was sent duplicate, with erroneous figures and late). I rebuilt the process with a focus on speed and reliability in information and delivery.
 
 ![banco report](img/banco.jpg)
 
