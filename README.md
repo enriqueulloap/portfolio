@@ -9,19 +9,19 @@ In this project, I built a Pipeline to load unstructured data into a MongoDB dat
 
 ### Omnichannel Sales Dashboard
 
-This dashboard was created to support the omnichannel strategy of a bank. It shows information for all products and channles of the bank. It gathers data from the different platforms used in the company, i.e. retail stores, bank offices, website, mobile applications, telemarketing, ATM, etc.
+This dashboard was created to support the omnichannel strategy of a bank, showing information for all its products and channels. It gathers data from the different platforms used in the company, i.e. retail stores, bank offices, website, mobile applications, telemarketing, ATM, etc.
 
 ![dashboard image](img/pulso.png)
 
 ### Credit and Debit Cards Report
 
-This report was created to count new cardholders and customers getting a product upgrade. It features charts and rankings with the best and worst store performances. Before this report, the managers had no way of knowing their performance during weekends, the days with the largest influx of public. Now they get this report automatically in a daily and hourly basis.
+This report shows new cardholders and customers getting a product upgrade. It features charts and rankings with the best and worst store performances. Before this report, the managers had no way of knowing their performance during weekends, the days with the largest influx of public. Now they get this report automatically in a daily and hourly basis.
 
 ![cards report](img/tarjetas_cropped.jpg)
 
 ### Consumer Loans Report
 
-This report shows the Consumer Loans sold in the bank offices along with some productivity KPI. It is a redesign of another one that was malfunctioning (sent with erroneous figures and late). The process was rebuilt with focus on speed and reliability in information and delivery.
+This report shows the Consumer Loans sold in the bank offices along with some productivity KPI. It is a redesign of another that was malfunctioning (sent with erroneous figures and late). The process was rebuilt with focus on speed and reliability.
 
 ![banco report](img/banco.jpg)
 
