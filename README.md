@@ -23,7 +23,7 @@ Before this report, the managers had no way of knowing their performance during 
 
 ### Consumer Loans Report
 
-This report shows the Consumer Loans sold in the bank offices along with productivity KPI.
+This report shows the Consumer Loans sold in the bank offices along with some productivity KPI.
 
 It is a redesign of one that was malfunctioning (it was sent duplicate, with erroneous figures and late). I rebuilt the process with a focus on speed and reliability in information and delivery.
 
