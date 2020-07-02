@@ -9,7 +9,7 @@ In this project, I built a Pipeline to load unstructured data into a MongoDB dat
 
 ### [User Behavior in an Educational Social Network (Part 2)](https://github.com/enriqueulloap/portfolio/blob/master/User%20Behavior%20in%20an%20Educational%20Social%20Network%20(Part%202).ipynb)
 
-In this project, I built a Pipeline to load unstructured data into a MongoDB database to determine what information we must extract to analyze the user behavior in an Educational Social Network.
+In progress...
 
 ### Omnichannel Sales Dashboard
 
