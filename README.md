@@ -13,8 +13,9 @@ In this project, I built a Pipeline to load unstructured data into a MongoDB dat
 
 This dashboard was created to support the omnichannel strategy of a bank, showing information for all its products and channels. It gathers data from the different platforms used in the company, i.e. retail stores, bank offices, website, mobile applications, telemarketing, ATM, etc.
 
-![dashboard image](img/pulso.png)
-
+![dashboard1 image](img/pulso.png)
+![dashboard2 image](img/pulso0.jpg)
+![dashboard3 image](img/pulso1.jpg)
 
 ### Credit and Debit Cards Report
 
