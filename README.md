@@ -9,6 +9,11 @@ Repository containing Enrique Ulloa's portfolio of data engineering projects. Pr
 In this project, I built a Pipeline to load unstructured data into a MongoDB database to determine what information we must extract to analyze the user behavior in an Educational Social Network.
 
 
+### [User Behavior in an Educational Social Network (Part 2)](https://github.com/enriqueulloap/portfolio/blob/master/User%20Behavior%20in%20an%20Educational%20Social%20Network%20(Part%202).ipynb)
+
+In this project, I designed a Transformation to create a dataset with user behavior in an Educational Social Network.
+
+
 ### Omnichannel Sales Dashboard
 
 This dashboard was created to support the omnichannel strategy of a bank, showing information for all its products and channels. It gathers data from the different platforms used in the company, i.e. retail stores, bank offices, website, mobile applications, telemarketing, ATM, etc.
