@@ -1,4 +1,4 @@
-# Data Engineering Portfolio
+# Data Wrangling Portfolio
 Repository containing Enrique Ulloa's portfolio of data engineering projects. Projects are presented in Jupyter Notebooks using Python and other technologies.
 
 
